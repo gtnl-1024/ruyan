@@ -1,5 +1,5 @@
 # ruyan
-如烟应急响应排查工具使用---win系统使用
+如烟应急响应排查工具使用---win系统
 <img width="2560" height="1524" alt="image" src="https://github.com/user-attachments/assets/b849a4f6-583b-47d9-9ecb-c913248a5e45" />
 选择everything的exe位置
 <img width="2560" height="1512" alt="image" src="https://github.com/user-attachments/assets/1e646f53-7b52-4976-8c74-205488906ca5" />
